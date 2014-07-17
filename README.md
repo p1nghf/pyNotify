@@ -5,7 +5,7 @@ Execute notify.py
 Enter your API Key
 Enter your message
 
-MESSAGE FORMAT
+Message Format
 ==============
 
 "//" = New Line
