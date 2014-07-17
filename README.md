@@ -2,7 +2,9 @@ pyNotify
 ========
 
 Execute notify.py
+
 Enter your API Key
+
 Enter your message
 
 Message Format
